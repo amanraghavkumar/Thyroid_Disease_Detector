@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: Thyroid_Disease_Detection
+Version: 0.0.1
+Author: Aman Raghav
+Author-email: amanraghav19722@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: flask
